@@ -15,8 +15,8 @@ In order to publish your own templates in the SharePoint PnP Gallery there are s
     - Others
 - The template has to be stored as a .PNP Open XML file. The .XML template files are not supported.
 - The template, within the .XML template file stored in the .PNP package, requires the following attributes:
-    - The _TemplateDisplayName_ attribute
-    - The _TemplateImagePreviewUrl_ attribute with the URL targeting an image file stored within the same folder in which you store the .PNP file. External image files are not supported for security reasons.
+    - The _DisplayName_ attribute
+    - The _ImagePreviewUrl_ attribute with the URL targeting an image file stored within the same folder in which you store the .PNP file. External image files are not supported for security reasons.
     - Some custom _Properties_ to declare the target platform for the template. Here you can see the expected properties:
         - PnP_Supports_SPO_Platform: true/false
         - PnP_Supports_SP2016_Platform: true/false
