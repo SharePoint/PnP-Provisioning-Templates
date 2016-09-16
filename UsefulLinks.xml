@@ -1,4 +1,4 @@
 <pnp:UsefulLinks xmlns:pnp="http://schemas.dev.office.com/PnP/2016/07/GalleryUsefulLinks">
-    <pnp:link title="SharePoint Development Hub" url="http://dev.office.com/sharepoint" abstract="Learn how to build engaign experiences with SharePoint, using open frameworks and tools." />
+    <pnp:link title="SharePoint Development Hub" url="http://dev.office.com/sharepoint" abstract="Build engaging experiences with SharePoint, using open frameworks and tools." />
     <pnp:link title="PnP Partner Pack" url="https://github.com/OfficeDev/PnP-Partner-Pack" abstract="Reference solution to manage common business requirements for SharePoint Online." />
 </pnp:UsefulLinks>
