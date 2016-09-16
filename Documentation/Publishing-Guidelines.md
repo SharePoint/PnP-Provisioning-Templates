@@ -21,7 +21,8 @@ In order to publish your own templates in the SharePoint PnP Gallery there are s
         - PnP_Supports_SPO_Platform: true/false
         - PnP_Supports_SP2016_Platform: true/false
         - PnP_Supports_SP2013_Platform: true/false
-- You have to provide a README.md file wthin the template folder. This file will be used as a detailed description of your templates and will be shared through the SharePoint PnP Templates Gallery web site. Any image included in the README.md file must reference contents included in the folder of the current template. Images retrieved from external domains/folders are not allowed. Hyperlinks to external domains, like the web site of the subject or company that is providing the template to the community, are allowed but will be validated during the template approval process. Any link to unsafe or non-trustable contents will prevent the publishing of the template. 
+- You have to provide a README.md file wthin the template folder. This file will be used as a detailed description of your templates and will be shared through the SharePoint PnP Templates Gallery web site. Any image included in the README.md file must reference contents included in the folder of the current template. Images retrieved from external domains/folders are not allowed. Hyperlinks to external domains, like the web site of the subject or company that is providing the template to the community, are allowed but will be validated during the template approval process. Any link to unsafe or non-trustable contents will prevent the publishing of the template.
+- The .PNP Open XML files cannot include any binary file like .DLL, .EXE or any script file like .PS1, .CMD, etc. 
 
 ## Technical Instructions
 Let's say that you have a site, which you want to use to create a PnP Provisioning Template for sharing in this repository.
