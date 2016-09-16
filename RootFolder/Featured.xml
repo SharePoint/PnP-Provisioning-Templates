@@ -1,3 +1,5 @@
 <pnp:FeaturedTemplates xmlns:pnp="http://schemas.dev.office.com/PnP/2016/07/GalleryFeaturedTemplates">
-    <pnp:template path="Category 1/Third Test" />
+    <pnp:template path="Human Resources/Absence-Vacation-Requests" />
+    <pnp:template path="Development/SharePoint.Framework.DevSite" />
+    <pnp:template path="Human Resources/CV-Database" />
 </pnp:FeaturedTemplates>
