@@ -1,4 +1,7 @@
 <pnp:UsefulLinks xmlns:pnp="http://schemas.dev.office.com/PnP/2016/07/GalleryUsefulLinks">
+    <pnp:link title="SharePoint/Office 365 Dev PnP" url="http://dev.office.com/pnp" abstract="Learn more about the SharePoint/Office 365 Dev Patterns and Practices (PnP) community project." />
     <pnp:link title="SharePoint Development Hub" url="http://dev.office.com/sharepoint" abstract="Build engaging experiences with SharePoint, using open frameworks and tools." />
     <pnp:link title="PnP Partner Pack" url="https://github.com/OfficeDev/PnP-Partner-Pack" abstract="Reference solution to manage common business requirements for SharePoint Online." />
+    <pnp:link title="How to Submit a Template" url="https://github.com/OfficeDev/PnP-Provisioning-Templates/blob/master/Documentation/Publishing-Guidelines.md" abstract="Learn how to submit your templates to the PnP Templates Gallery." />
+    <pnp:link title="Understanding the PnP Templates Gallery" url="http://dev.office.com/blogs/pnp-templates-gallery-open-source-provisioning-templates" abstract="Learn more about the PnP Templates Gallery." />
 </pnp:UsefulLinks>
