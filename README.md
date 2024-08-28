@@ -1,6 +1,6 @@
 **This repository has been archived.**
 
-For any new PnP provisioning template samples - please see https://github.com/SharePoint/sp-dev-provisioning-templates![image](https://github.com/user-attachments/assets/9e56a028-d1ce-4b8e-ac7a-d24804412035)
+For any new PnP provisioning template samples - please see https://github.com/SharePoint/sp-dev-provisioning-templates.
 
 # PnP Provisioning Templates
 This is the repository used to store the PnP Provisioning Templates shared across the community. 
